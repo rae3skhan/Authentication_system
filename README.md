@@ -1,6 +1,16 @@
 ## Node.js Authentication Project
 This project demonstrates user authentication using Passport.js with strategies for local authentication (email/password) and Google OAuth2. It includes a simple web application with login, registration, and Google sign-in functionality.
 
+
+
+
+
+<img src="https://github.com/user-attachments/assets/30dbe304-05d5-4cc8-aab0-c959ec97dc88" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/8b94e179-2200-45b2-b68a-490d42fe7e78" width="500" height="500">
+
+
+
+
 ### Features
 Local Authentication: Allows users to register with an email address and password.
 Google OAuth2 Authentication: Provides authentication via Google account using OAuth2.
@@ -51,6 +61,8 @@ To run this project locally, follow these steps:
 - `views/`: Directory containing EJS templates for login, register, and index pages
 ### Views
 - `views/index.ejs`: Home page view for authenticated users.
+- ![WhatsApp Image 2024-07-14 at 2 02 35 PM](https://github.com/user-attachments/assets/2e521de8-0d54-4141-a03f-43619a0c48a1)
+
 - `views/login.ejs`: Login page view.
 - `views/register.ejs`: Registration page view.
 ### Author 
